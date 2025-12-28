@@ -1,4 +1,5 @@
-./8bit_FIR_filter.cache/
-./8bit_FIR_filter.hw/
-./8bit_FIR_filter.ip_user_files/
-./8bit_FIR_filter.runs/
+8bit_FIR_filter.cache/
+8bit_FIR_filter.hw/
+8bit_FIR_filter.ip_user_files/
+8bit_FIR_filter.runs/
+8bit_FIR_filter.sim/
