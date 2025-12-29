@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module fir_filter3 #(parameter NUM_TAPS = 4, parameter Q = 7)(
+module fir_filter3 #(parameter NUM_TAPS = 32, parameter Q = 7)(
     input signed [7:0] input_signal,
     input clk, en, rst,
     output reg signed [16:0] output_signal
